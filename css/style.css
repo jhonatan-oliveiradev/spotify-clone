@@ -86,6 +86,11 @@ nav.navbar-transparente {
   color: #000;
 }
 
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5%;
+}
+
 /* Estrutura de counteúdos */
 .caixa {
   padding-top: 20px;
